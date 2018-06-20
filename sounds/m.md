@@ -14,7 +14,7 @@ M
 * `PHAD`: mad
 * `PHUD`: mud
 * `PHEUL`: mill
-* `PHAUL`: maul
+* `PHAUL`: mall
 * `PHELT`: melt
 * `PHUL`: mull
 
@@ -52,9 +52,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 | SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                             |
 | KW-PL            | {?}         | Alternative stroke for question mark. Some users prefer `TP-BG` and `KW-PL` as they can represent the intonation speakers use during a question or exclamation. |
 |
-| PHAUL            | maul        |
-|
-| PHA\*UL          | mall        | Star is used to resolve the conflict between "mall" and "maul"
+| PHAUL            | mall        |
 
 ### Practice
 
@@ -62,7 +60,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. `EU HR HED TO -T PHA*UL TP-PL`
+1. `EU HR HED TO -T PHAUL TP-PL`
 2. `U R P-FR TO PHE SKP EU HR PHEUS U TP-PL`
 3. `WHA HAZ HAPD TO U PW-FR H-F`
 4. `HE PHOBGS PHE AULS TP-PL`
