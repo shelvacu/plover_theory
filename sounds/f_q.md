@@ -59,8 +59,7 @@ Write the English sentence represented by these outlines, including punctuation.
 5. `-T RAT S PWABG TPR HER PWA*T TP-PL`
 6. `TPOL OUR TPAEPL KAR TO OUR HOUS TP-PL`
 7. `WHA TK U TKO THA TP-R H-F`
-8. `-T PHRAEUR WAS SKWARBD PWEU -T ROBG TP-PL`
-9. `A KWEUZ S AEU HREUL SET -F KWES TP-PL`
+8. `A KWEUZ S AEU HREUL SET -F KWES TP-PL`
 
 ### 2. Find Outlines
 
