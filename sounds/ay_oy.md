@@ -20,7 +20,7 @@ AEU
 * `PHAEUBG`: make
 * `TAEUBG`: take
 * `HRAEUPL`: lame
-* `PWHRAUPL`: blame
+* `PWHRAEUPL`: blame
 * `PHAEUR`: mayor
 * `TPHRAEUPL`: flame
 * `TPHRAEUR`: flair
